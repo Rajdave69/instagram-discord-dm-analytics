@@ -1,0 +1,4 @@
+buildtools==1.0.6
+matplotlib==3.9.2
+mplcyberpunk==0.7.1
+configparser==7.0.0
