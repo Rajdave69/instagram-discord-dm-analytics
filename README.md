@@ -16,7 +16,7 @@ pip install -r requirements.txt
 3. Click on the "Download your information" button
 ![img.png](readme-images/img.png)
 4. Click on "Download or transfer information"
-![img.png](instagram/img9.png)
+![img.png](readme-images/img9.png)
 5. Select the instagram account you want to use, and then "Next"
 ![img_1.png](readme-images/img_1.png)
 6. Click "Some of your information"
@@ -34,7 +34,7 @@ And then click create files
 After 20min-3 days you'll get an email from instagram telling you about the files being ready, there might be multiple.
 
 Download all of the .zip  files, 
-![img_1.png](instagram/img_10.png)
+![img_1.png](readme-images/img_10.png)
 
 Go in the folder which contains the extracted files, it might be called `downloads`
 
